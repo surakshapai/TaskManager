@@ -1,0 +1,33 @@
+.mainDiv 
+{
+	border: 1px solid black;
+	margin: 10px;
+}
+
+.addTask{
+	cursor: pointer;
+	text-align: center;
+}
+
+ul{
+	list-style-type: none;
+}
+
+.listInputBox 
+{
+	width: 90%;
+
+}
+
+.titleName
+{
+	width: 100%;
+	text-align: center;
+}
+
+.shownTask
+{
+	width:80%;
+	margin: 5px;
+}
+
